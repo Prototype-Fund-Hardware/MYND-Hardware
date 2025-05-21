@@ -5,5 +5,7 @@ Due to the file size, the STL files were not uploaded. They can be downloaded di
 
 The repository for the firmware can be found here: https://github.com/teufelaudio/mynd-firmware
 
-## Licence 
+## License 
+CC BY-SA 4.0 Copyright (c) 2025 Lautsprecher Teufel GmbH
+The corresponding licenses can be found in the CAD and PCB folders.
 
